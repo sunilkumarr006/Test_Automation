@@ -5,5 +5,7 @@ public class multiply {
         int c = a*b;
         System.out.println(c);
     }
+
+    dgaihfhidhflid
     
 }
